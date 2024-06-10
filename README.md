@@ -9,7 +9,7 @@
 
 - 📫 Cómo contactarme **nahuelmartinsequeira@gmail.com**
 
-- ⚡ Dato curioso **creo que soy una persona muy entrometida**
+- ⚡ Dato curioso **creo que soy una persona muy extrovertida y inteligente, me encanta estudiar de forma autodidacta**
 
 <h3 align="left">Conéctate conmigo:</h3 >
 <p align="left">
