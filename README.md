@@ -1,15 +1,15 @@
 <h1 align="center">hola 👋, mi nombre es Nahuel Sequeira</h1>
 <h3 align="center">Un apasionado por el frontend en argentina</h3>
 
-- 🌱 Actualmente estoy aprendiendo **curso de programacion en base de datos y en la universidad provincial de ezeiza**
+- 🌱 Actualmente estoy estudiando **curso de programacion en base de datos y en la universidad provincial de ezeiza**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [nahuelmartinsequeira30.com](nahuelmartinsequeira30.com)
 
-- 💬 Pregúntame sobre **Reactjs, Mysql, HTML, C, CSS , PYTHON**
+- 💬 Pregúntame sobre **Reactjs, MYSQL, HTML, C, CSS , PYTHON**
 
 - 📫 Cómo contactarme **nahuelmartinsequeira@gmail.com**
 
-- ⚡ Dato curioso **creo que soy una persona muy extrovertida y inteligente, me encanta estudiar de forma autodidacta**
+- ⚡ Dato curioso **creo que soy una persona muy extrovertida e inteligente, me encanta estudiar de forma autodidacta**
 
 <h3 align="left">Conéctate conmigo:</h3 >
 <p align="left">
