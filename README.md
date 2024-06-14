@@ -5,11 +5,11 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [nahuelmartinsequeira30.com](nahuelmartinsequeira30.com)
 
-- 💬 Pregúntame sobre **Reactjs, MYSQL, HTML, C, CSS , PYTHON**
+- 💬 Pregúntame sobre **REACTJS, MYSQL, HTML, C, CSS , PYTHON**
 
 - 📫 Cómo contactarme **nahuelmartinsequeira@gmail.com**
 
-- ⚡ Dato curioso **creo que soy una persona muy extrovertida e inteligente, me encanta estudiar de forma autodidacta**
+- ⚡ Dato curioso sobre mi  **creo que soy una persona muy extrovertida e inteligente, me encanta estudiar de forma autodidacta**
 
 <h3 align="left">Conéctate conmigo:</h3 >
 <p align="left">
