@@ -1,5 +1,5 @@
-<h1 align="center">hola 👋, mi nombre es Nahuel Sequeira</h1>
-<h3 align="center">me encanta el analisis de datos ,free software fanatic  </h3>
+<h1 align="center">hola 👋, mi nombre es Nahuel martin Sequeira</h1>
+<h3 align="center">Programador en base de datos</h3>
 
 - 🌱 Actualmente estoy estudiando **curso de programacion en base de datos y en la universidad provincial de ezeiza**
 
